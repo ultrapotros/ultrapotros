@@ -12,7 +12,7 @@
   
   I also have knowledge of <br>
   ☑️ Typescript <br>
-  ☑️ Java
+  ☑️ Java<br>
   ☑️ React Native<br>
   ☑️ Boostrap<br>
   ☑️ Android Studio<br>
