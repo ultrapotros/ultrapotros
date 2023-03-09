@@ -10,4 +10,13 @@
   ✅ MongoDB<br>
   ✅ PostgreSQL<br>
   
+  I also have knowledge of <br>
+  ☑️ Typescript <br>
+  ☑️ Java
+  ☑️ React Native<br>
+  ☑️ Boostrap<br>
+  ☑️ Android Studio<br>
+  
+  
+  
   🔗<a href="https://portfolio-git-main-ultrapotros.vercel.app/" target="_blank">My Portfolio</a>
